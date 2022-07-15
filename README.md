@@ -33,3 +33,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # IG-Clone-React-Tailwind-Next.js
+# jbridges373-IG-Clone-React-Tailwind-Next.
